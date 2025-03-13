@@ -1,6 +1,6 @@
 Uno script Python che prende in input un file Excel con indirizzi e li confronta con un indirizzo di riferimento.
 Gli output includono: distanza a piedi, tempo di guida e una mappa Google per la distanza in auto.
-Se non siete sviluppatori scaricate direttamente il file exe.
+Se non siete sviluppatori scaricate direttamente la cartella .exe ed avviate il file relative_distance ivi contenuto.
 Istruzioni:
 
         "1. Inserisci la tua API Key di Google Maps."
