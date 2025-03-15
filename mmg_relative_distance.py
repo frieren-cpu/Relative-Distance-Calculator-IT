@@ -9,7 +9,7 @@ from urllib.parse import quote
 # Percorso del file con l'API
 CONFIG_FILE = "apikey.json"
 
-# Funzione per generare link Google Maps
+# Funzione per generare link Google Maps distanza in macchina, per qualche ragione i risultati diretti dell'API si discostano da quelli su sito Gmaps
 def genera_link_maps(origine, destinazione):
     base_url = "https://www.google.com/maps/dir/?api=1"
     params = {
